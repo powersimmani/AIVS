@@ -16,6 +16,14 @@ AIVS offers the opportunity to experience everything from the fundamentals to th
 - **Career Development**: Portfolio and recommendation letters to support graduate school admission and job applications
 - **Community**: Networking opportunities with like-minded students and researchers
 
+## Table of Contents
+
+- [Purpose and Objectives](purpose.md)
+- [Curriculum](curriculum.md)
+- [Selection and Evaluation](evaluation.md)
+- [Presentation Materials](showcases.md)
+- [Qualified participants](alumni.md)
+
 ## Key Schedule
 
 - **Pre-session**: online learing by curated leartures  (2 weeks)
@@ -24,14 +32,6 @@ AIVS offers the opportunity to experience everything from the fundamentals to th
   - Week 2: Advanced ML concepts (RNN, transformers, GAN, self-supervised learning)
 - **Self-study**: Independent research and project development (4 weeks)
 - **Presentations**: Oral and poster presentations
-
-## Table of Contents
-
-- [Purpose and Objectives](purpose.md)
-- [Curriculum](curriculum.md)
-- [Selection and Evaluation](evaluation.md)
-- [Presentation Materials](showcases.md)
-- [Qualified participants](alumni.md)
 
 ## Qualified Participants' Achievements
 
