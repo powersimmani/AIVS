@@ -25,7 +25,7 @@ The Pre-session is designed to ensure all participants have the necessary founda
 | Machine Learning | Regression, Classification, Neural Networks, Deep Learning | [Link Macine Learning](presession.md#2-basic-online-lectures) |
 | Computer Architecture | CPU, GPU, Memory Systems, Binary Logic | [Link Computer Structure](presession.md#3-basic-computer-structure) |
 | Computer Networks | IP Addressing, Ports, WiFi, HTTPS, Virtualization | [Link Networks](presession.md#4-basic-computer-network) |
-| Operating Systems | Linux Command Line, File Systems, Environment Variables | [Link Linux](presession.md#5-basic-operating-linux-system) |
+| Operating Systems | Linux Command Line, File Systems, Environment Variables | [Link Operating Systems](presession.md#5-basic-operating-linux-system) |
 
 Participants are encouraged to complete all recommended materials, with additional resources available for those who want to explore specific topics in greater depth.
 
