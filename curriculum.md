@@ -14,7 +14,8 @@ The AIVS program consists of three distinct but interconnected learning phases:
 
 This structure allows participants to build a strong foundation through guided learning before applying their knowledge in a research context.
 
-## Pre-session
+## [Pre-session](presession.md)
+
 
 The Pre-session is designed to ensure all participants have the necessary foundational knowledge before the intensive Main-session begins. It covers the following areas:
 
