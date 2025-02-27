@@ -21,11 +21,11 @@ The Pre-session is designed to ensure all participants have the necessary founda
 
 | Subject | Topics | Resources |
 |---------|--------|-----------|
-| Mathematics | Linear Algebra, Calculus, Linear Transformations | [Pre-session Math](presession.md#1-basic-math) |
-| Machine Learning | Regression, Classification, Neural Networks, Deep Learning | [Pre-session ML](presession.md#2-basic-online-lectures) |
-| Computer Architecture | CPU, GPU, Memory Systems, Binary Logic | [Pre-session Computer Structure](presession.md#3-basic-computer-structure) |
-| Computer Networks | IP Addressing, Ports, WiFi, HTTPS, Virtualization | [Pre-session Networks](presession.md#4-basic-computer-network) |
-| Operating Systems | Linux Command Line, File Systems, Environment Variables | [Pre-session Linux](presession.md#5-basic-operating-linux-system) |
+| Mathematics | Linear Algebra, Calculus, Linear Transformations | [Link Math](presession.md#1-basic-math) |
+| Machine Learning | Regression, Classification, Neural Networks, Deep Learning | [Link Macine Learning](presession.md#2-basic-online-lectures) |
+| Computer Architecture | CPU, GPU, Memory Systems, Binary Logic | [Link Computer Structure](presession.md#3-basic-computer-structure) |
+| Computer Networks | IP Addressing, Ports, WiFi, HTTPS, Virtualization | [Link Networks](presession.md#4-basic-computer-network) |
+| Operating Systems | Linux Command Line, File Systems, Environment Variables | [Link Linux](presession.md#5-basic-operating-linux-system) |
 
 Participants are encouraged to complete all recommended materials, with additional resources available for those who want to explore specific topics in greater depth.
 
