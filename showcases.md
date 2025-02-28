@@ -7,13 +7,13 @@ AIVS provides students with opportunities to develop their presentation skills a
 
 ### Seminar Series
 
-- [2022 AIWS (AI Winter School)](./2022_aiws.html)
-- [2022 AISS (AI Summer School)](./2022_aiss.html)
-- [2023 AISS](./2023_aiss.html)
-- [2023 AIWS](./2023_aiws.html)
-- [2024 AIWS + RC4 IRTP Seminar](./2024_aiws.html)
-- [2024 AISS + RC4 IRTP Seminar](./2024_aiss.html)
-- [2025 AIWS + 3D Vision School](./2025_aiws.html)
+- [2022 AIWS](./showcases/2022_aiws.md)
+- [2022 AISS](./showcases/2022_aiss.md)
+- [2023 AIWS](./showcases/2023_aiws.md)
+- [2023 AISS](./showcases/2023_aiss.md)
+- [2024 AIWS + RC4 IRTP Seminar](./showcases/2024_aiws.md)
+- [2024 AISS + RC4 IRTP Seminar](./showcases/2024_aiss.md)
+- [2025 AIWS + 3D Vision School](./showcases/2025_aiws.md)
 
 
 ## Poster presentations (IGC Research Showcase)
