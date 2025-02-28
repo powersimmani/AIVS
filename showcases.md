@@ -1,43 +1,20 @@
 # AIVS Oral and Poster Presentations Showcase
 
 ## Oral Presentations
-
 AIVS provides students with opportunities to develop their presentation skills and share their research findings through various seminar presentations. Each student receives at least two 2-hour rehearsal sessions to refine their presentations.
 
-### 2022 AIWS (AI Winter School)
-- Student presentations on machine learning fundamentals
-- Focus on neural network architectures and practical implementations
-- Project demonstrations on computer vision applications
+<!-- Spotlight images will be placed here -->
 
-### 2022 AISS (AI Summer School)
-- Advanced topics in deep learning
-- Research presentations on CNN and RNN implementations
-- Student-led workshops on AI tools and frameworks
+### Seminar Series
 
-### 2023 AISS
-- Presentations on transformer architectures
-- Self-supervised learning research projects
-- Applications in natural language processing
+- [2022 AIWS (AI Winter School)](./2022_aiws.html)
+- [2022 AISS (AI Summer School)](./2022_aiss.html)
+- [2023 AISS](./2023_aiss.html)
+- [2023 AIWS](./2023_aiws.html)
+- [2024 AIWS + RC4 IRTP Seminar](./2024_aiws.html)
+- [2024 AISS + RC4 IRTP Seminar](./2024_aiss.html)
+- [2025 AIWS + 3D Vision School](./2025_aiws.html)
 
-### 2023 AIWS
-- Generative AI research and implementations
-- Presentations on GANs and diffusion models
-- Student-developed AI applications
-
-### 2024 AIWS + RC4 IRTP Seminar
-- Joint seminar with RC4 Interdisciplinary Research Training Program
-- Cross-disciplinary AI applications
-- Research on AI ethics and responsible implementation
-
-### 2024 AISS + RC4 IRTP Seminar
-- Advanced research presentations combining multiple AI techniques
-- Collaborative projects between AIVS and RC4 IRTP participants
-- Industry-focused AI solutions
-
-### 2025 AIWS + 3D Vision School
-- Specialized focus on 3D computer vision
-- Neural rendering and 3D reconstruction techniques
-- Integration of AI with extended reality (XR) technologies
 
 ## Poster presentations (IGC Research Showcase)
 
