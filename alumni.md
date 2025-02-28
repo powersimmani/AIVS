@@ -14,7 +14,7 @@ Participants in the AIVS program can achieve three certification levels based on
 
 Additionally, we recognize participants from the initial program stages before the current level system was established.
 
-## Qualified Participants by Level
+## Qualified Participants by their final Level
 
 ### Beginner Group
 
