@@ -33,20 +33,23 @@ The IGC Research Showcase was held on May 22, 2023, and May 10, 2024, with the f
 
 AIVS students were encouraged to extend their independent study results into posters and received guidance in presenting these posters at the symposium.
 
-### Student Showcase Presentations
+### 2024 Student Showcase Presentations
+| Authors | Title |
+|---------|-------|
+| Gaeun Oh | Detecting Panic Disorder Patients by Using Machine Learning Models |
+| Chae-Eon Rhee | A Hepatitis C Machine Learning Prediction Model |
+| Selin Yang | Acute Leukemia Type Classification via Gene Expression Analysis and Machine Learning |
+| Da Hee Kim | Unsupervised Learning and Single Cell RNA Sequencing |
+| Dongin Moon | Can AI Models Classify Tumors Based on Videos?: A Preliminary Study on PIPAC Biopsy Videos |
+| Yujin Sung | Advancements in Heart Disease Diagnosis: Leveraging Deep Learning Techniques |
 
-| Year | Authors | Title |
-|------|---------|-------|
-| 2023 | Dongin Moon | Regression using Deep Learning: The Boston Housing Dataset |
-| 2023 | Min Jae Chung | Predict Pima Indians Diabetes with Diagnostic Measures using Deep Machine Learning |
-| 2023 | Jiwon Im | Wheat Seed Classification |
-| 2023 | Yujin Kim | Build Artificial Neural Network Models based on a Wine Quality Dataset |
-| 2024 | Gaeun Oh | Detecting Panic Disorder Patients by Using Machine Learning Models |
-| 2024 | Chae-Eon Rhee | A Hepatitis C Machine Learning Prediction Model |
-| 2024 | Selin Yang | Acute Leukemia Type Classification via Gene Expression Analysis and Machine Learning |
-| 2024 | Da Hee Kim | Unsupervised Learning and Single Cell RNA Sequencing |
-| 2024 | Dongin Moon | Can AI Models Classify Tumors Based on Videos?: A Preliminary Study on PIPAC Biopsy Videos |
-| 2024 | Yujin Sung | Advancements in Heart Disease Diagnosis: Leveraging Deep Learning Techniques |
+### 2023 Student Showcase Presentations
+| Authors | Title |
+|---------|-------|
+| Dongin Moon | Regression using Deep Learning: The Boston Housing Dataset |
+| Min Jae Chung | Predict Pima Indians Diabetes with Diagnostic Measures using Deep Machine Learning |
+| Jiwon Im | Wheat Seed Classification |
+| Yujin Kim | Build Artificial Neural Network Models based on a Wine Quality Dataset |
 
 ## Notable Outcomes
 
