@@ -54,27 +54,3 @@ The Self-study phase allows participants to apply their knowledge to research pr
 
 Participants are encouraged to select projects that align with their interests while demonstrating their understanding of the concepts covered in the program.
 
-## Learning Resources
-
-Throughout all phases of the program, participants have access to:
-
-- Comprehensive lecture notes and presentation slides
-- Code repositories with example implementations
-- Research papers and review articles
-- Online forums for discussion and collaboration
-- Office hours with instructors and teaching assistants
-
-## Evaluation Methods
-
-Learning progress is assessed through multiple methods:
-
-- Pre-session qualification test
-- Daily quizzes during the Main-session
-- Comprehensive examination at the end of the Main-session
-- Project evaluation based on technical merit, innovation, and presentation
-
-These assessments help ensure participants are gaining the intended knowledge and skills while providing opportunities for feedback and improvement.
-
----
-
-For detailed information about specific sessions, please contact the program coordinators or refer to the current year's detailed syllabus.
