@@ -38,6 +38,7 @@ The Main-session consists of intensive daily training that combines lectures, ha
 Advanced and Advanced Plus level participants contribute to the program by leading selected sessions, particularly in Week 2, where they share their expertise and research experience with new participants. This peer-teaching model enhances learning for both instructors and students while building a collaborative AI research community.
 Reference: AIWS 2024-2025 Schedule (January)
 Below is the actual schedule from the 2024-2025 AI Winter School for reference
+
 ![Main-session](assets/main_session.png)
 
 
