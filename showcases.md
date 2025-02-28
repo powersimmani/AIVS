@@ -12,8 +12,6 @@ AIVS provides students with opportunities to develop their presentation skills a
 - [2024 AIWS + RC4 IRTP Seminar](./showcases/2024_aiws.md)
 - [2023 AISS](./showcases/2023_aiss.md)
 - [2023 AIWS](./showcases/2023_aiws.md)
-- [2022 AISS](./showcases/2022_aiss.md)
-- [2022 AIWS](./showcases/2022_aiws.md)
 
 
 ## Poster presentations (IGC Research Showcase)
