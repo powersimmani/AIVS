@@ -30,49 +30,16 @@ The Pre-session is designed to ensure all participants have the necessary founda
 Participants are encouraged to complete all recommended materials, with additional resources available for those who want to explore specific topics in greater depth.
 
 ## Main-session
-
 The Main-session consists of intensive daily training that combines lectures, hands-on exercises, and group discussions. The schedule is divided into two thematic weeks:
 
-### Week 1: Foundational ML Concepts
+- Week 1: Focuses on fundamental AI and machine learning concepts, essential tools, and basic neural network architectures
+- Week 2: Concentrates on specialized AI applications, research methodologies, and advanced topics presented by teaching assistants based on their research areas
 
-- Day 1: Machine Learning Fundamentals
-  - Evaluation metrics and methodologies
-  - Loss functions and optimization techniques
-  - Practical lab: Implementing basic ML algorithms
+Advanced and Advanced Plus level participants contribute to the program by leading selected sessions, particularly in Week 2, where they share their expertise and research experience with new participants. This peer-teaching model enhances learning for both instructors and students while building a collaborative AI research community.
+Reference: AIWS 2024-2025 Schedule (January)
+Below is the actual schedule from the 2024-2025 AI Winter School for reference
+![Main-session](assets/main_session.png)
 
-- Day 2-3: Artificial Neural Networks (ANNs)
-  - Neural network architecture
-  - Backpropagation and gradient descent
-  - Practical lab: Building and training simple neural networks
-
-- Day 4-5: Convolutional Neural Networks (CNNs)
-  - Image data and preprocessing
-  - CNN architectures (AlexNet, VGG, ResNet, etc.)
-  - Practical lab: Implementing CNNs for image classification
-
-### Week 2: Advanced ML Concepts
-
-- Day 1-2: Recurrent Neural Networks (RNNs)
-  - Sequential data processing
-  - LSTM, GRU, and attention mechanisms
-  - Practical lab: Text generation and sequence prediction
-
-- Day 3: Transformers
-  - Self-attention and multi-head attention
-  - Transformer architecture
-  - Practical lab: Implementing a simple transformer model
-
-- Day 4: Generative Adversarial Networks (GANs)
-  - Generative vs. discriminative models
-  - GAN training dynamics
-  - Practical lab: Creating a basic GAN
-
-- Day 5: Self-supervised Learning
-  - Contrastive learning
-  - Recent advances in self-supervised approaches
-  - Practical lab: Implementing a self-supervised learning task
-
-Each day includes theoretical sessions in the morning and practical implementation in the afternoon, with evening sessions for discussion and review.
 
 ## Self-study
 
