@@ -39,7 +39,7 @@ Advanced and Advanced Plus level participants contribute to the program by leadi
 Reference: AIWS 2024-2025 Schedule (January)
 Below is the actual schedule from the 2024-2025 AI Winter School for reference
 
-![Main-session](assets/main_session.png)
+![Main-session](assets/AISS.png)
 
 
 ## Self-study
