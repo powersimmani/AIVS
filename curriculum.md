@@ -54,3 +54,4 @@ The Self-study phase allows participants to apply their knowledge to research pr
 
 Participants are encouraged to select projects that align with their interests while demonstrating their understanding of the concepts covered in the program.
 
+![February 25th Session](./showcases/2025_aiws_feb25.png)
