@@ -4,7 +4,7 @@ The AIVS curriculum is designed to provide a comprehensive learning experience t
 
 ## Program Overview
 
-![Curriculum Overview](assets/curriculum_overview.png)
+![Curriculum Overview](assets/program.png)
 
 The AIVS program consists of three distinct but interconnected learning phases:
 
