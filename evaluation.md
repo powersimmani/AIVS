@@ -2,7 +2,7 @@
 
 The AI Vacation School (AIVS) employs a structured selection and evaluation system to ensure participants receive the maximum benefit from the program.
 
-![Evaluation Process](assets/evaluation_process.png)
+![Evaluation Process](assets/evaluation.png)
 
 ## Selection Process
 
