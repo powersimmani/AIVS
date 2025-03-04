@@ -6,7 +6,7 @@ The AI Vacation School (AIVS) has fostered a growing community of qualified part
 ## Certification Levels
 
 Participants in the AIVS program can achieve three certification levels based on their performance and continued involvement:
-![Alumni Banner](assets/alumni_banner.png)
+![Promotion](assets/promotion.png)
 
 - **Beginner**: Successfully completed program requirements
 - **Advanced**: Exceptional performance and previous completion of Beginner level
