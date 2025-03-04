@@ -53,5 +53,6 @@ The Self-study phase allows participants to apply their knowledge to research pr
 - Final project documentation and presentation preparation
 
 Participants are encouraged to select projects that align with their interests while demonstrating their understanding of the concepts covered in the program.
+You can view the results of the Self-study projects in the [showcases directory](./showcases).
 
 ![February 25th Session](./showcases/2025_aiws_feb25.png)
