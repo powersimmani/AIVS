@@ -31,6 +31,9 @@ The IGC Research Showcase was held on May 22, 2023, and May 10, 2024, with the f
 
 AIVS students were encouraged to extend their independent study results into posters and received guidance in presenting these posters at the symposium.
 
+![AIVS Seminar Showcase](./assets/posters.png)
+
+
 ### 2024 Student Showcase Presentations
 | Authors | Title |
 |---------|-------|
