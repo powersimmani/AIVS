@@ -3,7 +3,7 @@
 ## Oral Presentations
 AIVS provides students with opportunities to develop their presentation skills and share their research findings through various seminar presentations. Each student receives at least two 2-hour rehearsal sessions to refine their presentations.
 
-![AIVS Seminar Showcase](../assets/seminar.png)
+![AIVS Seminar Showcase](./assets/seminar.png)
 
 ### Seminar Series
 
