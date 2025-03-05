@@ -3,7 +3,7 @@
 # Qualified Participants
 
 
-The AI Vacation School (AIVS) has fostered a growing community of qualified participants who have successfully completed the program. These participants represent a diverse group of students who have demonstrated their dedication to AI education and research.
+The AIVS has fostered a growing community of qualified participants who have completed the program. These participants represent a diverse group of students who have demonstrated their dedication to AI education and research.
 
 ## Certification Levels
 
@@ -11,8 +11,8 @@ Participants in the AIVS program can achieve three certification levels based on
 ![Promotion](assets/promotion.png)
 
 - **Beginner**: Successfully completed program requirements
-- **Advanced**: Exceptional performance and previous completion of Beginner level
-- **Advanced Plus**: Outstanding performance, significant contribution to the program, and previous completion of Advanced level
+- **Advanced**: Contribution to the program and previous completion of Beginner level
+- **Advanced Plus**: Significant contribution to the program, and previous completion of Advanced level
 
 Additionally, we recognize participants from the initial program stages before the current level system was established.
 
@@ -62,7 +62,7 @@ Participants from before the certification level system was established
 
 ## Participant Achievements
 
-The AIVS program has helped foster significant achievements among its participants:
+The AIVS program has helped foster achievements among its participants:
 
 ### Academic Publications
 
