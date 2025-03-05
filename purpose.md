@@ -30,7 +30,7 @@ The AIVS was established to create a collaborative environment where undergradua
 
 ## Participant Benefits
 - Program certificate signed by the supervising professors
-- Portfolio of presentations, code, and other project materials
+- Portfolio of presentations, experiment codes, and other project materials
 - Reference letters for graduate school applications or employment, based on AIVS project and program contributions
 - Mentorship from experienced researchers and faculty members
 
