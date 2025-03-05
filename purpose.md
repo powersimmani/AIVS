@@ -36,7 +36,7 @@ The AI Vacation School (AIVS) was established to create a collaborative environm
 ## Promotion and Contribution System
 - New participants join as the Beginner group
 - After completing the Beginner level, participants can progress to Advanced and Advanced Plus levels in subsequent sessions
-- Advanced and higher-level participants contribute to the program by leading 2 basic lectures/practice sessions each
+- Advanced and higher-level participants contribute to the program by leading 2 basic lecture or practice sessions each
 - This system enhances learning through teaching and contributes to the program's sustainability
 
 Through this multi-faceted approach, AIVS aims to create a sustainable ecosystem that benefits all stakeholders while advancing AI education and research within the university community.
