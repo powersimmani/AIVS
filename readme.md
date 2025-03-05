@@ -34,14 +34,6 @@ AIVS offers the opportunity to experience everything from the fundamentals to th
 - **Self-study**: Independent research and project development (4 weeks)
 - **Presentations**: Oral and poster presentations
 
-## Qualified Participants' Achievements
-
-Many students have grown in the field of AI through the AIVS program:
-
-- Numerous participants have been admitted to prestigious domestic and international graduate schools
-- Excellent results in corporate and graduate school interviews 
-- Some participants have published papers as co-authors (Ilho Yun, Ganghyun Kim, Jongbum Won, Jinsung Oh)
-
 
 ## Contact
 
