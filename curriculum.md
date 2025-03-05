@@ -56,6 +56,7 @@ Participants are encouraged to select projects that align with their interests w
 You can view the results of the Self-study projects in the [showcases directory](./showcases).
 
 ![February 25th Session](./showcases/2025_aiws_feb25.png)
+Figure: Example projects presented in AIWS 2025
 
 ---
 [Return to Main Page](./readme.md#Table-of-Contents)
