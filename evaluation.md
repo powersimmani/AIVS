@@ -1,25 +1,20 @@
 ---
 # Selection and Evaluation
 
-The AI Vacation School (AIVS) employs a structured selection and evaluation system to ensure participants receive the maximum benefit from the program.
+The AIVS employs a structured selection and evaluation system to ensure participants receive the maximum benefit from the program.
 
 ![Evaluation Process](assets/evlauation.png)
 
-## Selection Process
-
-Qualification Test
+## Selection Process (Qualification Test)
 All prospective participants must pass a qualification test to join the program. This test assesses:
 
-Basic mathematical knowledge:
+**Basic mathematical knowledge:**
+- Basic linear algebra (10 problems)
+- Basic calculus (10 problems)
 
-Basic linear algebra (10 problems)
-Basic calculus (10 problems)
-
-
-Programming skills:
-
-Basic Python (5 problems)
-Advanced Python (5 problems)
+**Programming skills:**
+- Basic Python (5 problems)
+- Advanced Python (5 problems)
 
 
 
