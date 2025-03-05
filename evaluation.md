@@ -1,3 +1,4 @@
+---
 # Selection and Evaluation
 
 The AI Vacation School (AIVS) employs a structured selection and evaluation system to ensure participants receive the maximum benefit from the program.
@@ -60,3 +61,6 @@ AIVS uses a three-stage evaluation process throughout the program:
    * To build experience presenting technical content
    * To create materials that demonstrate research experience for future applications
 - **Documentation**: Presentations are recorded and linked for future reference
+
+---
+[Return to Main Page](./readme.md)
