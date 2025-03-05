@@ -59,7 +59,7 @@ In addition to the work listed here, we are actively engaged in various interdis
 - **MuSe 2022 Multimodal Model**: Code submitted by the FeelsGood team for the MuSe 2022 Challenge, featuring a Transformer Encoder added to an LSTM model for time-continuous emotion prediction. Includes pose feature extraction and both single-modal and multi-modal models.
   - **Contributors**: Ho-min Park, **Ganghyun Kim**
   - **Repository**: [GitHub - MuSe2022FeelsGood](https://github.com/powersimmani/MuSe2022FeelsGood)
-  - 
+    
 - **Microplastics Annotation Package (MAP)**: A user-friendly tool for microplastics monitoring that performs both annotation tasks and monitoring. Features include fluorescent MP label editing, threshold model comparison, visualization and quantitative analysis of MP particles, and model training using user data.
   - **Contributors**: Ho-min Park, **Sanghyeon Park**, **Ji Yeon Baek**
   - **Repository**: [GitHub - Microplastics-Annotation-Package](https://github.com/powersimmani/Microplastics-Annotation-Package)
