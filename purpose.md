@@ -44,5 +44,5 @@ Through this multi-faceted approach, AIVS aims to create a sustainable ecosystem
 
 
 ---
-[Return to Main Page](./readme.md)
+[Return to Main Page](./readme.md#Table-of-Contents)
 
