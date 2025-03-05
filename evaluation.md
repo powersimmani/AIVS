@@ -28,8 +28,8 @@ AIVS uses a three-stage evaluation process throughout the program:
 - **Timing**: First day of the Main-session
 - **Content**: Comprehensive assessment covering fundamental concepts in Linear Algebra, Calculus, Machine Learning, Deep Learning, Computer Structure, Networks, and Operating Systems
 - **Format**: Mixture of conceptual questions, mathematical problems, and application scenarios
-- **Purpose**: To verify self-learning of fundamental concepts and provide preparation for future graduate school interviews
-- **Development**: Created by student volunteers from the Advanced group
+- **Purpose**: To verify the understanding of fundamental concepts in the pre-session online lectures
+
 
 ### 2. Exam
 - **Timing**: End of the Main-session (January 16, 2025)
