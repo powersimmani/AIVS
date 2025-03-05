@@ -28,7 +28,7 @@ The Pre-session is designed to ensure all participants have the necessary founda
 | Computer Networks | IP Addressing, Ports, WiFi, HTTPS | [Link Computer Networks](presession.md#4-basic-computer-network) |
 | Operating Systems | Linux Command Line, File Systems, Virtualization | [Link Operating Systems](presession.md#5-basic-operating-linux-system) |
 
-Participants are encouraged to complete all recommended materials, with additional resources available for those who want to explore specific topics in greater depth. These contents' understanding levels are assessed through a Quiz on the first day of the Main-session.
+Participants are encouraged to complete all recommended materials, with additional resources available for those who want to explore specific topics in greater depth. These contents' understanding levels are assessed through a [Quiz](./evaluation.md#Evaluation-Process) on the first day of the Main-session.
 
 ## Main-session
 The Main-session consists of intensive daily training that combines lectures, hands-on exercises, and group discussions. The schedule is divided into two thematic weeks:
@@ -37,7 +37,7 @@ The Main-session consists of intensive daily training that combines lectures, ha
 - Week 2: Concentrates on specialized AI applications, research methodologies, and advanced AI topics
 
 Advanced and Advanced Plus level participants contribute to the program by leading selected sessions, particularly in Week 1, where they share their beginner-level experiences with new participants. This learning-by-teaching model encourages advanced-level participants to review and update teaching materials, reinforcing their own understanding while enhancing the curriculum.
-The understanding gained during the Main-session is verified through an [Exam](./evaluation.md#Exam) conducted on the final day of Main-session.
+The understanding gained during the Main-session is verified through an [Exam](./evaluation.md#Evaluation-Process) conducted on the final day of Main-session.
 
 ![Main-session](assets/AISS.png)
 Figure: Example teaching materials  used from AIVS 2024
