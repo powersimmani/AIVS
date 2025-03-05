@@ -41,7 +41,7 @@ AIVS uses a three-stage evaluation process throughout the program:
 - **Purpose**: To evaluate understanding of core AI concepts through practical problem solving
 
 ### 3. Seminar Presentation
-- **Timing**: During the Self-study phase following the Main-session
+- **Timing**: During the  [Self-study](./curriculum.md#self-study) phase following the Main-session
 - **Format**: Technical presentation with Q&A before an audience of professors, PhD students, and peers
 - **Content**: Presentation of independent research projects and findings
 - **Environment**: Formal academic setting with invited experts from RC4 and students interested in AI
