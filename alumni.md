@@ -56,16 +56,11 @@ Additionally, we recognize participants from the initial program stages before t
 
 ### Initial Stage Group
 
-*Participants from before the certification level system was established*
+*Participants from before the certification level system was established* 
 
 | Session | Name | Current Affiliation |
 |---------|------|---------------------|
-| 2021 AISS | Sunghwan Kim | |
-| 2021 AISS | Seungchan Oh | |
-| 2021 AISS | Minji You | |
 | 2021 AISS | Jihwan Lim | |
-| 2021 AISS | Hyojin Lee | |
-| 2021 AIWS | Minseo Kim | |
 | 2021 AIWS | Ilho Yun | |
 | 2021 AIWS | Jinny Chun | |
 | 2021 AIWS | Haeun Lee | |
