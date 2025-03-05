@@ -24,7 +24,7 @@ The AIVS was established to create a collaborative environment where undergradua
 
 ## Program Objectives
 - Provide over 100 hours of structured AI learning and project work
-- Verify knowledge acquisition through a four-stage evaluation process
+- Verify knowledge acquisition through a three-stage evaluation process
 - Enable participants to develop portfolio-quality projects
 - Create opportunities for presentations and research showcases
 
