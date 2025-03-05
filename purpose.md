@@ -3,7 +3,7 @@
 
 ## Program Vision
 
-The AI Vacation School (AIVS) was established to create a collaborative environment where undergraduate students can develop a strong foundation in AI through intensive learning and hands-on project experience. Our vision is to nurture the next generation of AI researchers and practitioners who can contribute to scientific advancement and technological innovation.
+The AIVS was established to create a collaborative environment where undergraduate students can develop a strong foundation in AI through intensive learning and hands-on project experience. Our vision is to nurture the next generation of AI researchers and practitioners who can contribute to scientific advancement and technological innovation.
 
 ## Multi-level Purposes
 
