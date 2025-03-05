@@ -54,20 +54,6 @@ Figure: Presented posters
 | Jiwon Im | [Wheat Seed Classification](https://www.dropbox.com/scl/fi/3fan4av1xl18vxonjmegm/Wheat-seed-classification_poster.pdf?rlkey=yjjvpfjatoosu88pq4afwaohp&st=yhtys6yz&dl=0) |
 | Yujin Kim | [Build Artificial Neural Network Models based on a Wine Quality Dataset](https://www.dropbox.com/scl/fi/drjpvexsmdgmn960now4j/Wine-quality-classficiation.pdf?rlkey=xxmtp184wt27yxp8v4ijfi5ib&st=7m7vzc7d&dl=0) |
 
-## Notable Outcomes
-
-### Publication Success
-Several AIVS participants have contributed as co-authors to research papers, including:
-- Ilho Yun (Initial stage)
-- Ganghyun Kim (Advanced Plus)
-- Jongbum Won (Advanced Plus)
-- Jinsung Oh (Advanced)
-
-### Career Advancement
-Many AIVS graduates have leveraged their knowledge and experience from the program to achieve success in:
-- Graduate school admissions at prestigious universities
-- Securing positions at leading AI research labs and companies
-- Successfully completing technical interviews with demonstrated AI expertise
-
+---
 
 [Return to Main Page](./readme.md#Table-of-Contents)
