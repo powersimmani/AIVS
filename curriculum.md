@@ -34,9 +34,12 @@ Participants are encouraged to complete all recommended materials, with addition
 The Main-session consists of intensive daily training that combines lectures, hands-on exercises, and group discussions. The schedule is divided into two thematic weeks:
 
 - Week 1: Focuses on fundamental AI and machine learning concepts, essential tools, and basic neural network architectures
-- Week 2: Concentrates on specialized AI applications, research methodologies, and advanced topics presented by teaching assistants based on their research areas
+- Week 2: Concentrates on specialized AI applications, research methodologies, and advanced AI topics
 
-Advanced and Advanced Plus level participants contribute to the program by leading selected sessions, particularly in Week 2, where they share their expertise and research experience with new participants. This peer-teaching model enhances learning for both instructors and students while building a collaborative AI research community.
+Advanced and Advanced Plus level participants contribute to the program by leading selected sessions, particularly in Week 1, where they share their beginner-level experiences with new participants. This learning-by-teaching model encourages advanced-level participants to review and update teaching materials, reinforcing their own understanding while enhancing the curriculum.
+
+
+
 Reference: AIWS 2024-2025 Schedule (January)
 Below is the actual schedule from the 2024-2025 AI Winter School for reference
 
