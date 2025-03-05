@@ -60,33 +60,10 @@ Participants from before the certification level system was established
 | 2020 AISS | Sanghyeon Park | Visiting researcher - Scripps Institute in San Diego, California |
 | 2020 AISS | Jiyeon Baek | |
 
+
 ## Participant Achievements
 
-The AIVS program has helped foster achievements among its participants:
-
-### Academic Publications
-
-Several participants have contributed to research publications as co-authors:
-- Ilho Yun
-- Ganghyun Kim
-- Jongbum Won
-- Jinsung Oh
-
-### Career Advancement
-
-Many graduates have leveraged their AIVS experience to achieve success in:
-- Graduate school admissions at prestigious universities
-- Competitive industry positions
-- Research internships
-- Academic interviews
-
-### Program Contributions
-
-Advanced and Advanced Plus participants have made significant contributions to the program's development by:
-- Leading instructional sessions
-- Developing teaching materials
-- Mentoring new participants
-- Supporting program administration
+You can find the participants' presentations and posters [here](./showcases.md), and their contributed research outcomes [here](./collaborations.md).
 
 *Note: This list represents participants who have completed the program as of February 2025. Current affiliations will be updated as information becomes available.*
 
