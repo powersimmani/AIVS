@@ -1,3 +1,4 @@
+---
 # Purpose and Objectives
 
 ## Program Vision
@@ -40,3 +41,7 @@ The AI Vacation School (AIVS) was established to create a collaborative environm
 - This system enhances learning through teaching and contributes to the program's sustainability
 
 Through this multi-faceted approach, AIVS aims to create a sustainable ecosystem that benefits all stakeholders while advancing AI education and research within the university community.
+
+
+---
+
