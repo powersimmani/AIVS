@@ -20,7 +20,7 @@ All prospective participants must pass a qualification test to join the program.
 
 Participants are selected based on test scores, with a maximum of 4 candidates chosen according to highest scores.
 
-## Evaluation Methods
+## Evaluation Process
 
 AIVS uses a three-stage evaluation process throughout the program:
 
