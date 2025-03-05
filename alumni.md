@@ -1,3 +1,5 @@
+---
+
 # Qualified Participants
 
 
@@ -86,8 +88,9 @@ Advanced and Advanced Plus participants have made significant contributions to t
 - Mentoring new participants
 - Supporting program administration
 
+*Note: This list represents participants who have completed the program as of February 2025. Current affiliations will be updated as information becomes available.*
+
 ---
 
-*Note: This list represents participants who have completed the program as of February 2025. Current affiliations will be updated as information becomes available.*
 [Return to Main Page](./readme.md#Table-of-Contents)
 
