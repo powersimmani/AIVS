@@ -25,7 +25,7 @@ The AI Vacation School (AIVS) was established to create a collaborative environm
 - Provide over 100 hours of structured AI learning and project work
 - Verify knowledge acquisition through a four-stage evaluation process
 - Enable participants to develop portfolio-quality projects
-- Create opportunities for public presentations and research showcases
+- Create opportunities for presentations and research showcases
 
 ## Participant Benefits
 - Performance certificate signed by the supervising professors
