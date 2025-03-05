@@ -25,14 +25,14 @@ Participants are selected based on test scores, with a maximum of 4 candidates c
 AIVS uses a three-stage evaluation process throughout the program:
 
 ### 1. Quiz
-- **Timing**: First day of the Main-session
+- **Timing**: First day of the [Main-session](./curriculum.md#Main-session)
 - **Content**: Comprehensive assessment covering fundamental concepts in Linear Algebra, Calculus, Machine Learning, Deep Learning, Computer Structure, Networks, and Operating Systems
 - **Format**: Mixture of conceptual questions, mathematical problems, and application scenarios
 - **Purpose**: To verify the understanding of fundamental concepts in the pre-session online lectures
 
 
 ### 2. Exam
-- **Timing**: End of the Main-session (January 16, 2025)
+- **Timing**: End of the [Main-session](./curriculum.md#Main-session)
 - **Format**: Comprehensive assessment covering all Main-session material including:
    * Artificial Neural Networks (ANNs)
    * Convolutional Neural Networks (CNNs)
