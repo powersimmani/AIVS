@@ -3,7 +3,7 @@
 
 ## Program Vision
 
-The AIVS was established to create a collaborative environment where undergraduate students can develop a strong foundation in AI through intensive learning and hands-on project experience. Our vision is to nurture the next generation of AI researchers and practitioners who can contribute to scientific advancement and technological innovation.
+The AIVS was established to create a collaborative environment where undergraduate students can develop a strong foundation in AI through intensive learning and hands-on project experience. Our vision is to provide undergraduates with foundational AI knowledge and hands-on experience that prepares them for further studies or entry-level positions in the field.
 
 ## Multi-level Purposes
 
