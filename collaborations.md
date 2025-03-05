@@ -2,7 +2,7 @@
 
 The AI Vacation School (AIVS) program has fostered student participation in academic research, resulting in contributions to peer-reviewed publications, software development, and dataset creation. This page documents the research outputs where AIVS participants (highlighted in **bold**) have been directly involved.
 
-In addition to the work listed here, we are actively engaged in various interdisciplinary research collaborations and provide customized self-study guidance for research collaborations. For inquiries about collaborative research, interdisciplinary studies, or specialized talent development, please contact us at homin.park@ghent.ac.kr or wesley.deneve@ghent.ac.kr.
+In addition to the work listed here, we are actively engaged in various interdisciplinary research collaborations and provide customized self-study guidance for research collaborations. For inquiries about collaborative research or interdisciplinary studies please contact us at homin.park@ghent.ac.kr or wesley.deneve@ghent.ac.kr.
 
 
 ## Research Outcomes
@@ -52,6 +52,14 @@ In addition to the work listed here, we are actively engaged in various interdis
 
 ### Software Tools
 
+- **MuSe-Personalization 2023 Code**: Implementation of the FeelsGood team that participated in the MuSe-Personalization track of the MuSe 2023 Challenge, achieving 2nd place. The model detects stress levels through multimodal emotion analysis using a Transformer Encoder.
+  - **Contributors**: Ho-min Park, **Ganghyun Kim**
+  - **Repository**: [GitHub - MUSE2023_clean](https://github.com/kyleok/MUSE2023_clean)
+
+- **MuSe 2022 Multimodal Model**: Code submitted by the FeelsGood team for the MuSe 2022 Challenge, featuring a Transformer Encoder added to an LSTM model for time-continuous emotion prediction. Includes pose feature extraction and both single-modal and multi-modal models.
+  - **Contributors**: Ho-min Park, **Ganghyun Kim**
+  - **Repository**: [GitHub - MuSe2022FeelsGood](https://github.com/powersimmani/MuSe2022FeelsGood)
+  - 
 - **Microplastics Annotation Package (MAP)**: A user-friendly tool for microplastics monitoring that performs both annotation tasks and monitoring. Features include fluorescent MP label editing, threshold model comparison, visualization and quantitative analysis of MP particles, and model training using user data.
   - **Contributors**: Ho-min Park, **Sanghyeon Park**, **Ji Yeon Baek**
   - **Repository**: [GitHub - Microplastics-Annotation-Package](https://github.com/powersimmani/Microplastics-Annotation-Package)
@@ -60,13 +68,6 @@ In addition to the work listed here, we are actively engaged in various interdis
   - **Contributors**: Ho-min Park, **Sanghyeon Park**, **Ji Yeon Baek**
   - **Repository**: [GitHub - MP-Net](https://github.com/powersimmani/MP-Net)
 
-- **MuSe-Personalization 2023 Code**: Implementation of the FeelsGood team that participated in the MuSe-Personalization track of the MuSe 2023 Challenge, achieving 2nd place. The model detects stress levels through multimodal emotion analysis using a Transformer Encoder.
-  - **Contributors**: Ho-min Park, **Ganghyun Kim**
-  - **Repository**: [GitHub - MUSE2023_clean](https://github.com/kyleok/MUSE2023_clean)
-
-- **MuSe 2022 Multimodal Model**: Code submitted by the FeelsGood team for the MuSe 2022 Challenge, featuring a Transformer Encoder added to an LSTM model for time-continuous emotion prediction. Includes pose feature extraction and both single-modal and multi-modal models.
-  - **Contributors**: Ho-min Park, **Ganghyun Kim**
-  - **Repository**: [GitHub - MuSe2022FeelsGood](https://github.com/powersimmani/MuSe2022FeelsGood)
 
 ### Datasets
 
