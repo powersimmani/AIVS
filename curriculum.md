@@ -59,4 +59,4 @@ You can view the results of the Self-study projects in the [showcases directory]
 ![February 25th Session](./showcases/2025_aiws_feb25.png)
 
 ---
-[Return to Main Page](./readme.md)
+[Return to Main Page](./readme.md#Table-of-Contents)
