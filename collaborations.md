@@ -8,6 +8,7 @@ In addition to the work listed here, we are actively engaged in various interdis
 ## Research Outcomes
 
 ### Journals
+![stressdetection](assets/stressdetection.png)
 
 - Ho-min Park, **Ganghyun Kim**, **Jinsung Oh**, Arnout Van Messem, and Wesley De Neve. 2024. Interpreting Stress Detection Models using SHAP and Attention for MuSe-Stress 2022. IEEE Transactions on Affective Computing.
 
@@ -16,6 +17,7 @@ In addition to the work listed here, we are actively engaged in various interdis
 - Ho-min Park, **Sanghyeon Park**, Maria Krishna de Guzman, **Ji Yeon Baek**, Tanja Cirkovic Velickovic, Arnout Van Messem, and Wesley De Neve. 2022. MP-Net: Deep Learning-based Segmentation for Fluorescence Microscopy Images of Microplastics Isolated from Clams. PLoS ONE 17(6): e0269449.
 
 ### Proceedings
+![camscore](assets/camscore.png)
 
 - Ho-min Park, **Ilho Yun**, Mijung Kim, Khoa Tuan Nguyen, Arnout Van Messem, and Wesley De Neve. 2024. Interpretable Rotator Cuff Tear Diagnosis Using MRI Slides with CAMscore and SHAP. In Medical Imaging 2024: Computer-Aided Diagnosis (Vol. 12927, pp. 683-693). SPIE.
 
@@ -45,12 +47,13 @@ In addition to the work listed here, we are actively engaged in various interdis
 ## Software and Web Services
 
 ### Web Services
-
+![CCD](assets/CCD.png)
 - **CRISPR-Cas-Docker (CCD)**: A web-based bioinformatics tool for predicting interactions between CRISPR RNAs (crRNAs) and Cas proteins. Users can provide experimentally obtained 3-D structures or use prediction tools. CCD generates top-10 docking models using HDOCK, optimizing crRNA-Cas protein combinations before laboratory experiments.
   - **Contributors**: Ho-min Park, **Jongbum Won**
   - **URL**: [http://www.crisprcasdocker.org/](http://www.crisprcasdocker.org/)
 
 ### Software Tools
+![MPmonitoring](assets/MPmonitoring.png)
 
 - **MuSe-Personalization 2023 Code**: Implementation of the FeelsGood team that participated in the MuSe-Personalization track of the MuSe 2023 Challenge, achieving 2nd place. The model detects stress levels through multimodal emotion analysis using a Transformer Encoder.
   - **Contributors**: Ho-min Park, **Ganghyun Kim**
