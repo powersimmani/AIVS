@@ -63,4 +63,4 @@ AIVS uses a three-stage evaluation process throughout the program:
 - **Documentation**: Presentations are recorded and linked for future reference
 
 ---
-[Return to Main Page](./readme.md)
+[Return to Main Page](./readme.md#Table-of-Contents)
