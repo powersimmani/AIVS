@@ -1,4 +1,4 @@
-
+---
 # AI Vacation School - Pre-session (Version for 2025 Winter)
 
 
@@ -67,3 +67,8 @@ This material has been compiled for the pre-session of the AI Vacation School. S
 -   [Linux path](https://www.youtube.com/watch?v=MYdgugJT0TQ&t=274s) (approx. 10 min)
 -   [Linux file subsystem](https://www.youtube.com/watch?v=42iQKuQodW4) (approx. 10 min)
 -   [Environment variables](https://www.youtube.com/watch?v=bd65z5VZ7L4) (approx. 10 min)
+
+---
+[Return to Main Page](./readme.md)
+
+
