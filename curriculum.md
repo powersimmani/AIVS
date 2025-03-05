@@ -1,3 +1,4 @@
+---
 # Curriculum
 
 The AIVS curriculum is designed to provide a comprehensive learning experience that combines theoretical foundations with practical application. The program is structured in three main phases to ensure progressive learning and skill development.
@@ -56,3 +57,6 @@ Participants are encouraged to select projects that align with their interests w
 You can view the results of the Self-study projects in the [showcases directory](./showcases).
 
 ![February 25th Session](./showcases/2025_aiws_feb25.png)
+
+---
+[Return to Main Page](README.md)
