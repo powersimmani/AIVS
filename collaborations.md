@@ -9,7 +9,7 @@ In addition to the work listed here, we are actively engaged in various interdis
 
 ### Journals
 
-- Ho-min Park, **Ganghyun Kim, **Jinsung Oh**, Arnout Van Messem, and Wesley De Neve. 2024. Interpreting Stress Detection Models using SHAP and Attention for MuSe-Stress 2022. IEEE Transactions on Affective Computing, pages 1-17.
+- Ho-min Park, **Ganghyun Kim, **Jinsung Oh**, Arnout Van Messem, and Wesley De Neve. 2024. Interpreting Stress Detection Models using SHAP and Attention for MuSe-Stress 2022. IEEE Transactions on Affective Computing.
 
 - Ho-min Park, **Jongbum Won**, Yunseol Park, Esla Timothy Anzaku, Joris Vankerschaver, Arnout Van Messem, Wesley De Neve, and Hyunjin Shim. 2023. CRISPR-Cas-Docker: Web-Based In Silico Docking and Machine Learning-Based Classification of crRNAs with Cas Proteins. BMC Bioinformatics, 24(1), 167.
 
