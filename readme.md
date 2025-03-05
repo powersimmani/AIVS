@@ -1,4 +1,4 @@
-# AIVS - AI Vacation School
+# AI Vacation School
 
 ![AIVS Banner](assets/aivs_banner.png)
 
