@@ -22,6 +22,7 @@ AIVS offers the opportunity to experience everything from the fundamentals to th
 - [Curriculum](curriculum.md)
 - [Selection and Evaluation](evaluation.md)
 - [Presentation Materials](showcases.md)
+- [Research Collaborations](collaborations.md)
 - [Qualified Participants](alumni.md)
 
 ## Key Schedule
