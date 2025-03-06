@@ -2,7 +2,7 @@
 # AI Vacation School - Pre-session (Version for 2025 Winter)
 
 
-This material has been compiled for the pre-session of the AI Vacation School. Applicantswho pass the qualification test are required to study this material for approximately two weeks following their semester exams. On the first day of the main program, their achievement will be evaluated through a quiz. The material has been carefully curated over four years with input from numerous TAs and participants who have completed the program. The content includes both videos and reading materials, with approximately 20+ hours of video playback time, while the total study time required is estimated at 50+ hours.
+This material has been compiled for the pre-session of the AI Vacation School. Applicant swho pass the qualification test are required to study this material for approximately two weeks following their semester exams. On the first day of the main program, their achievement will be evaluated through a quiz. The material has been carefully curated over four years with input from numerous TAs and participants who have completed the program. The content includes both videos and reading materials, with approximately 20+ hours of video playback time, while the total study time required is estimated at 50+ hours.
 
 
 ## 1. Basic Math
