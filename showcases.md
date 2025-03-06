@@ -8,6 +8,7 @@ AIVS provides students with opportunities to develop their presentation skills a
 Figure: Seminar
 
 ### Seminar Series
+Our seminar series includes the following events:
 
 - [2025 AIWS + 3D Vision School](./showcases/2025_aiws.md)
 - [2024 AISS + RC4 IRTP Seminar](./showcases/2024_aiss.md)
