@@ -2,7 +2,7 @@
 
 The AI Vacation School (AIVS) program has fostered student participation in academic research, resulting in contributions to peer-reviewed publications, software development, and dataset creation. This page documents the research outputs where AIVS participants (highlighted in **bold**) have been directly involved.
 
-In addition to the work listed here, we are actively engaged in various interdisciplinary research collaborations and provide customized self-study guidance for research collaborations. For inquiries about collaborative research or interdisciplinary studies please contact us at homin.park@ghent.ac.kr or wesley.deneve@ghent.ac.kr.
+In addition to the work listed here, we are actively engaged in various interdisciplinary research collaborations and provide customized self-study guidance for research collaborations. For inquiries about collaborative research or interdisciplinary studies, please contact us at homin.park@ghent.ac.kr or wesley.deneve@ghent.ac.kr.
 
 
 ## Research Outcomes
