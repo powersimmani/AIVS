@@ -22,7 +22,7 @@ Participants are selected based on test scores, with a maximum of 4 candidates c
 
 ## Evaluation Process
 
-AIVS uses a three-stage evaluation process throughout the program:
+AIVS implements a comprehensive three-stage evaluation process throughout the program:
 
 ### 1. Quiz
 - **Timing**: First day of the [Main-session](./curriculum.md#main-session)
