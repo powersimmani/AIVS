@@ -47,7 +47,7 @@ Figure: Example teaching materials  used from AIVS 2024
 
 The Self-study phase allows participants to apply their knowledge to research projects of their choice. This 4-week period includes:
 
-- Project and corresponding data selection 
+- Selection of projects and corresponding datasets 
 - Access to computing resources and specialized equipments
 - Weekly group sessions to share progress and get feedback
 - Final project documentation and presentation preparation
