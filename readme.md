@@ -10,7 +10,7 @@ AIVS offers the opportunity to experience everything from the fundamentals to th
 
 ## Program Features
 
-- **Intensive Training**: Over 100 hours of AI learning and personalied project work during vacation periods
+- **Intensive Training**: Over 100 hours of AI learning and personalized project work during vacation periods
 - **Progressive Growth**: Level-based programs divided into Beginner, Advanced, and Advanced Plus groups
 - **Practical Experience**: Research experience through seminar presentations and poster sessions
 - **Career Development**: Portfolio and recommendation letters to support graduate school admission and job applications
