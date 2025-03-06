@@ -27,7 +27,7 @@ AIVS provides students with comprehensive exposure to everything from AI fundame
 
 ## Key Schedule
 
-- **Pre-session**: online learning by curated lectures  (2 weeks)
+- **Pre-session**: Self-paced learning with curated online lectures (2 weeks)
 - **Main-session**: 
   - Week 1: Basic ML concepts (evaluation, loss, optimization, ANN, CNN)
   - Week 2: Advanced ML concepts (RNN, transformers, GAN, self-supervised learning)
