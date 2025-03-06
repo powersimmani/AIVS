@@ -50,7 +50,8 @@ Additionally, we recognize participants from the initial program stages before t
 | 2023 AISS | Jongbum Won |Social Service Agent |
 | 2023 AISS | Ganghyun Kim | Graduate school - UNIST, Korea|
 ### Initial Stage Group
-Participants from before the certification level system was established 
+Participants who joined before the certification level system was established.
+
 | Session | Name | Current Affiliation |
 |---------|------|---------------------|
 | 2021 AISS | Jihwan Lim |Graduate school - Ghent University, Belgium|
