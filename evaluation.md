@@ -18,7 +18,7 @@ All prospective participants must pass a qualification test to join the program.
 
 
 
-Participants are selected based on test scores, with a maximum of 4 candidates chosen according to highest scores.
+Participants are selected based on test scores, with a maximum of 4 candidates chosen according to the highest scores.
 
 ## Evaluation Process
 
