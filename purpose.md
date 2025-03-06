@@ -8,7 +8,7 @@ The AIVS was established to create a collaborative environment where undergradua
 ## Multi-level Purposes
 
 ### Instructors' Purpose
-- Create a structured environment that motivates continuous self-improvement in AI knowledge
+- Create a structured environment that encourages and supports continuous self-improvement in AI knowledge
 - Develop experience in mentoring students and team members, valuable for future faculty or senior engineering roles
 - Build a repository of comprehensive teaching and presentation materials for future reference
 
