@@ -46,16 +46,16 @@ Additionally, we recognize participants from the initial program stages before t
 | 2025 AIWS | Gaeun Oh | Undergraduate student|
 | 2024 AISS | Taekeun Kim | Undergraduate student|
 | 2024 AISS | Dongin Moon |Undergraduate student |
-| 2024 AISS | Yujin Kim | Graduate school - Ghent University, Begium |
+| 2024 AISS | Yujin Kim | Graduate school - Ghent University, Belgium |
 | 2023 AISS | Jongbum Won |Social Service Agent |
 | 2023 AISS | Ganghyun Kim | Graduate school - UNIST, Korea|
 ### Initial Stage Group
 Participants from before the certification level system was established 
 | Session | Name | Current Affiliation |
 |---------|------|---------------------|
-| 2021 AISS | Jihwan Lim |Graduate school - Ghent University, Begium|
+| 2021 AISS | Jihwan Lim |Graduate school - Ghent University, Belgium|
 | 2021 AIWS | Ilho Yun | Graduate school - Seoul National University, Korea|
-| 2021 AIWS | Jinny Chun |Graduate school - Ghent University, Begium|
+| 2021 AIWS | Jinny Chun |Graduate school - Ghent University, Belgium|
 | 2021 AIWS | Haeun Lee | |
 | 2020 AISS | Sanghyeon Park | Visiting researcher - Scripps Institute in San Diego, California |
 | 2020 AISS | Jiyeon Baek | |
