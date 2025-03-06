@@ -36,8 +36,8 @@ The Main-session consists of intensive daily training that combines lectures, ha
 - Week 1: Focuses on fundamental AI and machine learning concepts, essential tools, and basic neural network architectures
 - Week 2: Concentrates on specialized AI applications, research methodologies, and advanced AI topics
 
-Advanced and Advanced Plus level participants contribute to the program by leading selected sessions, particularly in Week 1, where they share their beginner-level experiences with new participants. This learning-by-teaching model encourages advanced-level participants to review and update teaching materials, reinforcing their own understanding while enhancing the curriculum.
-The understanding gained during the Main-session is verified through an [Exam](./evaluation.md#Evaluation-Process) conducted on the final day of Main-session.
+Advanced and Advanced Plus level participants contribute to the program by leading selected sessions, particularly in Week 1, where they share their beginner-level experiences with new participants. This learning-by-teaching model encourages advanced-level participants to review and update teaching materials, reinforcing their own understanding while contributing to the enhancement of the curriculum.
+The understanding gained during the Main-session is verified through an Exam conducted on the final day of the Main-session.
 
 ![Main-session](assets/AISS.png)
 Figure: Example teaching materials  used from AIVS 2024
