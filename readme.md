@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**AI Vacation School (AIVS)** is a specialized artificial intelligence (AI) bootcamp organized by Center for Biosystems and Biotech Data Science in Ghent University Global Campus for undergraduate students. It provides intensive AI education and project experience during summer and winter vacations.
+**AI Vacation School (AIVS)** is a specialized artificial intelligence (AI) bootcamp organized by the Center for Biosystems and Biotech Data Science at Ghent University Global Campus for undergraduate students. It provides intensive AI education and project experience during summer and winter vacations.
 
 AIVS offers the opportunity to experience everything from the fundamentals to the latest trends in AI through a systematic curriculum that combines theoretical knowledge with practical skills.
 
