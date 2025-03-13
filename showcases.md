@@ -41,6 +41,7 @@ Figure: Presented posters
 ### 2025 Student Showcase Presentations
 
 | Authors | Title |
+|---------|-------|
 | Gaeun Oh | [Multi-class Image Classification: Pap Smear Cell Classification Competition](https://www.dropbox.com/scl/fi/mse5f971lv6yl276k5hwu/AIWS-2025-Advanced-Plus-Gaeun-Oh-Multi-class-image-classification-pap-smear-cell-classification-competition.pdf?rlkey=k86hunlezz1i5pq7dhnnsoe5n&st=9wtmr93k&dl=0) |
 | Subin Hyun | [AI-Powered Quality Control in Bioprocessing: Automation of CRO Test with Computer Vision](https://www.dropbox.com/scl/fi/osfnsw0afok7exbu58g33/AIWS-2025-Advanced-Subin-Hyun-Ai-powered-quality-control-in-bioprocessing-automation-of-CRO-test-with-computer-vision.pdf?rlkey=ed3n8bpv7hhzpwynjix0fumfo&st=xv3y7haa&dl=0) |
 | Seonil Jee | [Application of Diffusion Models to Splice Site Generation](https://www.dropbox.com/scl/fi/4p2sy5cxjpjz7i8b8xywf/AIWS-2025-Advanced-Seonil-Jee-Application-of-diffusion-models-to-splice-site-generation.pdf?rlkey=btnqy8z7zsx5v0llenh3a5kvy&st=e55zksdg&dl=0) |
