@@ -41,19 +41,15 @@ Figure: Presented posters
 ### 2025 Student Showcase Presentations
 
 | Authors | Title |
-|---------|-------|
-| Sunjai Hwang | [Exploring Neural Style Transfer: Image Style Transfer Using Convolutional Networks](https://www.dropbox.com/scl/fi/ahskre4wiaqvswp0ivg0a/AIWS-2025-Beginner-Sunjai-Hwang-Exploring-neural-style-transfer-image-style-transfer-using-convolutional-networks.pdf?rlkey=1x850g8i4pfx95a2s3qebscmz&st=u7v57g31&dl=0) |
-| Junhui Lee | [Machine Learning Framework for Alzheimer's Disease Prediction](https://www.dropbox.com/scl/fi/npqsy958syphyx0dmsev7/AIWS-2025-Beginner-Junhui-Lee-Machine-learning-framework-for-alzheimer-s-disease-prediction.pdf?rlkey=c9m14f02xx65m41licba8uazs&st=rsqlxqhq&dl=0) |
-| Jongwon Shin | [Detecting Adulteration in Coffee Using Hyperspectral Imaging and Machine Learning](https://www.dropbox.com/scl/fi/tfzobe83im63l8nf83cxo/AIWS-2025-Beginner-Jongwon-Shin-Detecting-Adulteration-in-Coffee-Using-Hyperspectral-Imaging-and-Machine-Learning.pdf?rlkey=wk8cxtv7znd15ld5njat92zcj&st=1mqxcgbp&dl=0) |
-| Jaeyoung Lee | [AI-Driven Pneumonia Classification from Medical X-rays](https://www.dropbox.com/scl/fi/422b0wre07587re84u2mi/AIWS-2025-Beginner-Jaeyoung-Lee-AI-Driven-Pneumonia-classification-from-medical-x-rays.pdf?rlkey=lisgi8r52v1sdb1zahhtl8nfo&st=m1647fyn&dl=0) |
-|---------|-------|
+| Gaeun Oh | [Multi-class Image Classification: Pap Smear Cell Classification Competition](https://www.dropbox.com/scl/fi/mse5f971lv6yl276k5hwu/AIWS-2025-Advanced-Plus-Gaeun-Oh-Multi-class-image-classification-pap-smear-cell-classification-competition.pdf?rlkey=k86hunlezz1i5pq7dhnnsoe5n&st=9wtmr93k&dl=0) |
 | Subin Hyun | [AI-Powered Quality Control in Bioprocessing: Automation of CRO Test with Computer Vision](https://www.dropbox.com/scl/fi/osfnsw0afok7exbu58g33/AIWS-2025-Advanced-Subin-Hyun-Ai-powered-quality-control-in-bioprocessing-automation-of-CRO-test-with-computer-vision.pdf?rlkey=ed3n8bpv7hhzpwynjix0fumfo&st=xv3y7haa&dl=0) |
 | Seonil Jee | [Application of Diffusion Models to Splice Site Generation](https://www.dropbox.com/scl/fi/4p2sy5cxjpjz7i8b8xywf/AIWS-2025-Advanced-Seonil-Jee-Application-of-diffusion-models-to-splice-site-generation.pdf?rlkey=btnqy8z7zsx5v0llenh3a5kvy&st=e55zksdg&dl=0) |
 | Selin Yang | [CRISPR-Cas13d System Efficacy Prediction Using Deep Learning](https://www.dropbox.com/scl/fi/nydywrewvfm3k8s44h3sr/AIWS-2025-Advanced-Selin-Yang-Crispr-cas13d-system-efficacy-prediction-using-deep-learning.pdf?rlkey=enxy3ey2m73japvxg41ysangw&st=9qjzn26n&dl=0) |
 | Narim Kim | [3D Pose Estimation for Enhanced Sentiment Analysis: Insight from the MUSE Challenge](https://www.dropbox.com/scl/fi/ei7zc8us4esnwmzzjvxey/AIWS-2025-Advanced-Narim_Kim-3D-Pose-estimation-for-enhanced-sentiment-analysis-insight-from-the-muse-challenge.pdf?rlkey=hvpsdt972ylski168dt49cci0&st=joprwaou&dl=0) |
-|---------|-------|
-| Gaeun Oh | [Multi-class Image Classification: Pap Smear Cell Classification Competition](https://www.dropbox.com/scl/fi/mse5f971lv6yl276k5hwu/AIWS-2025-Advanced-Plus-Gaeun-Oh-Multi-class-image-classification-pap-smear-cell-classification-competition.pdf?rlkey=k86hunlezz1i5pq7dhnnsoe5n&st=9wtmr93k&dl=0) |
-
+| Sunjai Hwang | [Exploring Neural Style Transfer: Image Style Transfer Using Convolutional Networks](https://www.dropbox.com/scl/fi/ahskre4wiaqvswp0ivg0a/AIWS-2025-Beginner-Sunjai-Hwang-Exploring-neural-style-transfer-image-style-transfer-using-convolutional-networks.pdf?rlkey=1x850g8i4pfx95a2s3qebscmz&st=u7v57g31&dl=0) |
+| Junhui Lee | [Machine Learning Framework for Alzheimer's Disease Prediction](https://www.dropbox.com/scl/fi/npqsy958syphyx0dmsev7/AIWS-2025-Beginner-Junhui-Lee-Machine-learning-framework-for-alzheimer-s-disease-prediction.pdf?rlkey=c9m14f02xx65m41licba8uazs&st=rsqlxqhq&dl=0) |
+| Jongwon Shin | [Detecting Adulteration in Coffee Using Hyperspectral Imaging and Machine Learning](https://www.dropbox.com/scl/fi/tfzobe83im63l8nf83cxo/AIWS-2025-Beginner-Jongwon-Shin-Detecting-Adulteration-in-Coffee-Using-Hyperspectral-Imaging-and-Machine-Learning.pdf?rlkey=wk8cxtv7znd15ld5njat92zcj&st=1mqxcgbp&dl=0) |
+| Jaeyoung Lee | [AI-Driven Pneumonia Classification from Medical X-rays](https://www.dropbox.com/scl/fi/422b0wre07587re84u2mi/AIWS-2025-Beginner-Jaeyoung-Lee-AI-Driven-Pneumonia-classification-from-medical-x-rays.pdf?rlkey=lisgi8r52v1sdb1zahhtl8nfo&st=m1647fyn&dl=0) |
 
 ### 2024 Student Showcase Presentations
 | Authors | Title |
