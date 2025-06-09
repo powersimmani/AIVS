@@ -8,6 +8,12 @@
 
 AIVS provides students with comprehensive exposure to everything from AI fundamentals to the latest trends through a systematic curriculum that integrates theoretical knowledge with practical skills.
 
+---
+
+This project was presented at IGC Research Showcases 2025, AI in Education session. Check out the presentation materials! [Link](purpose.md)
+
+---
+
 ## Program Features
 
 - **Intensive Training**: Over 100 hours of AI learning and personalized project work during vacation periods
