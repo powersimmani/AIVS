@@ -10,7 +10,7 @@ AIVS provides students with comprehensive exposure to everything from AI fundame
 
 ---
 
-This project was presented at IGC Research Showcases 2025, AI in Education session. Check out the presentation materials! [Link](assets/<IGC research showcase 2025.pdf>)
+This project was presented at IGC Research Showcases 2025, AI in Education session. Check out the presentation materials! [Link](<assets/IGC research showcase 2025.pdf>)
 
 
 ---
