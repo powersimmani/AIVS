@@ -10,6 +10,7 @@ Figure: Seminar
 ### Seminar Series
 Our seminar series includes the following events:
 
+- [2025 AISS Summer Break Closing Seminar](./showcases/2025_aiss.md)
 - [2025 AIWS + 3D Vision School](./showcases/2025_aiws.md)
 - [2024 AISS + RC4 IRTP Seminar](./showcases/2024_aiss.md)
 - [2024 AIWS + RC4 IRTP Seminar](./showcases/2024_aiws.md)
