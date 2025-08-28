@@ -1,0 +1,71 @@
+# 2025 AISS Summer Break Closing Seminar
+*August 26-27, 2025*
+
+The AISS (AI Summer School) 2025 Summer Break Closing Seminar showcased innovative research projects from students across various levels, from beginners to advanced researchers. The presentations covered diverse applications of AI in drug discovery, medical imaging, and computational biology.
+
+## Participants
+
+### Faculty
+- Prof. Wesley De Neve
+- Prof. Joris Vankerschaver
+
+### Research Center Members
+- Dr. Utku Özbulak
+- Dr. Ho-min Park
+- Dr. Khoa Tuan Nguyen
+- Solha Kang
+- Espoir Kabanga
+- Ju Hyung Lee
+- Seongik Choi
+
+## Day 1: August 26, 2025
+
+| Time | Presenter | Class | Grade | Advisor(s) | Title | Materials |
+|------|-----------|-------|-------|------------|-------|-----------|
+| | Seonil Jee | Intern Student | BA3 | Espoir, Ho-min | Application of Diffusion Models to Splice Site Generation | [PDF](https://www.dropbox.com/scl/fi/ptnbe3zjh572x41kb2juh/Seonil-Jee-20250826-Application-of-Diffusion-Models-to-Splice-Site-Generation.pdf?rlkey=lxtyx4uzizbgbwfmgonw5merx&st=mtm4s478&dl=0) |
+| | Minseong Cha | Beginner | BA2 | Seongik | Development of an IC50 Activity Prediction Model for MAP3K5: Utilization of Different Feature Vectors | [PDF](https://www.dropbox.com/scl/fi/ycotuh3rio8bqax049tji/Miseong-Cha-20250827-Development-of-an-IC50-Activity-Prediction-Model-for-MAP3K5-utilization-of-different-feature-vectors.pdf.pdf?rlkey=qzl9o72s33j0gw1n47d5fy8et&st=mhmjshsh&dl=0) |
+| | Wonyeong Lee | Beginner | BA3 | Seongik | Development of an IC50 Activity Prediction Model for MAP3K5: Tree-Based Machine Learning Models | [PDF](https://www.dropbox.com/scl/fi/t7thf0gzh9x5wiv7k5gf1/Wonyeong-Lee-20250826-Development-of-an-IC50-Activity-Prediction-Model-for-MAP3K5-Tree-Based-Machine-Learning-Models.pdf?rlkey=psrl0mukuy8xc1fxbdld3wjfm&st=v9qrwhfp&dl=0) |
+| | Kyoung Kwak | Former Student (AISS 2024) | BA2* | Ho-min | Emotion Prediction using 3D Pose Features | [PDF](https://www.dropbox.com/scl/fi/loewk16ltplmjn2jswkty/Jason-Kwak-20250826-Emotion-Prediction-using-3D-Pose-Features.pdf?rlkey=w0j9879ivl6n3m9pd65t72l7f&st=amtnyctv&dl=0) |
+| | Eugene Kim | Intern Student | BA2 | Utku, Solha | Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2 | [PDF](https://www.dropbox.com/scl/fi/nabjk7ppiddrsi2xpttfx/Eugene-Kim-20250826-Towards-Affordable-Tumor-Segmentation-and-Visualization-for-3D-Breast-MRI-Using-SAM2.pdf?rlkey=pwdq4gax9qag5rhpszn1gl5xb&st=gpy3j0ro&dl=0) |
+| | Hyojun Bae | Exchange Student | MS | Seongik, Juhyeong | Applying Histology Image to Visual-Omics Foundation Model for Gene Expression Prediction | [PDF](https://www.dropbox.com/scl/fi/hsf5947hnkcsldazzbk6i/Hyojun-Bae-20250826-Applying-histology-image-to-Visual-Omics-Foundation-Model-for-Gene-Expression-Prediction.pdf?rlkey=vjmxszdypmxzz4r4ian258f8v&st=dqyhn99f&dl=0) |
+
+*Currently in military service
+
+## Day 2: August 27, 2025
+
+| Time | Presenter | Class | Grade | Advisor(s) | Title | Materials |
+|------|-----------|-------|-------|------------|-------|-----------|
+| | Subin Hyun | Advanced Plus | BA2 | Seongik | LLM-Based Toxicity Prediction for Drug Discovery with SMILES and ChemBERTa | [PDF](https://www.dropbox.com/scl/fi/yeqzdq2bo7sx8nt7e4hst/Subin-Hyun-20250827-LLM-Based-Toxicity-Prediction-for-Drug-Discovery-with-SMILES-and-ChemBERTa.pdf?rlkey=5xav7if8qtwlmelxs05ep5225&st=1xfdwjyv&dl=0) |
+| | Selin Yang | Advanced Plus | BA3 | Seongik | Antibody Drug Conjugate (ADC) Activity Prediction using Molecular Embeddings | [PDF](https://www.dropbox.com/scl/fi/pgcl66lkliyl1sb6ltyh4/Selin-Yang-20250827-Antibody-Drug-Conjugate-ADC-Activity-Prediction-using-Molecular-Embeddings.pdf?rlkey=2l98du1asn4m8jj5wwasp9pti&st=8afgnxmb&dl=0) |
+| | Junseok Kim | Advanced | BA3 | Seongik | Development of IC50 Activity Prediction Model for MAP3K5: Application of Different Pre-trained Deep Learning Models | [PDF](https://www.dropbox.com/scl/fi/o3wejdeovi2cbush5zna1/Junseok-Kim-20250827-Development-of-IC50-Activity-Prediction-Model-for-MAP3K5-Application-of-Different-Pre-trained-Deep-Learning-Models.pdf?rlkey=ppm5obzuf5dehvnmaz98n1a60&st=3ykhlyat&dl=0) |
+| | Jongwon Shin | Advanced | BA3 | Seongik | Perceiver IO for SMILES-Based Molecular Property Prediction | [PDF](https://www.dropbox.com/scl/fi/7754kfuhegmvd06ae06zu/Jongwon-Shin-20250827-Perceiver-IO-for-SMILES-Based-Molecular-Property-Prediction.pdf?rlkey=zukgqm58d5jn95sff2oy76oz3&st=4bg9qita&dl=0) |
+| | Sunjai Hwang & Jaeyoung Lee | Former Students (AIWS 2025) | BA3 | Ho-min, Juhyeong | The Critical View of Safety in Laparoscopic Cholecystectomy (CVS) Challenge at MICCAI 2025: Segmentation of Hepatocystic Anatomy in Laparoscopic Surgery Images | [PDF](https://www.dropbox.com/scl/fi/f8378q6ej4wvj88bbk71o/Sunjai-Hwang-and-Jaeyoung-Lee-20250827-The-Critical-View-of-Safety-in-Laparoscopic-Cholecystectomy-CVS-Challenge-at-MICCAI-2025-Segmentation-of-HepatocysticAnatomy-in-Laparoscopic-Surgery-Images.pdf?rlkey=1y7wkltokx2bozofuoso1xs4s&st=s31zcl48&dl=0) |
+| | Gaeun Oh | Intern Student | BA3 | Khoa | Toward Using Machine Learning as a Shape Quality Metric for Liver Point Cloud Generation | [PDF](https://www.dropbox.com/scl/fi/u3wt1fly5yp2o7bqt5olv/Gaeun-Oh-20250827-Toward-Using-Machine-Learning-as-a-Shape-Quality-Metric-for-Liver-Point-Cloud-Generation.pdf?rlkey=w4cygk01c0we8qsr9sczf18dk&st=kpp7zcfz&dl=0) |
+
+## Research Areas
+
+### Drug Discovery & Molecular Property Prediction
+- Multiple approaches to MAP3K5 IC50 prediction (Minseong Cha, Wonyeong Lee, Junseok Kim)
+- Advanced molecular modeling with Perceiver IO (Jongwon Shin)
+- ADC activity prediction (Selin Yang)
+- Toxicity prediction with LLMs (Subin Hyun)
+
+### Medical Imaging & Computer Vision
+- Surgical vision for laparoscopic procedures (Sunjai Hwang & Jaeyoung Lee)
+- Tumor segmentation in breast MRI (Eugene Kim)
+- Liver point cloud generation (Gaeun Oh)
+
+### Computational Biology & Bioinformatics
+- Gene expression prediction from histology (Hyojun Bae)
+- Splice site generation with diffusion models (Seonil Jee)
+
+### Human Behavior Analysis
+- Emotion recognition from 3D pose (Kyoung Kwak)
+
+## Acknowledgments
+
+We thank all participants for their valuable contributions and engaging presentations. Special appreciation goes to the faculty members and research center staff who provided guidance and support throughout the summer program.
+
+---
+
+*Repository maintained by Ho-min Park*
