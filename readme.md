@@ -41,6 +41,8 @@ This project was presented at IGC Research Showcases 2025, AI in Education sessi
 - **Self-study**: Independent research and project development (4 weeks)
 - **Presentations**: Oral and poster presentations
 
+## Main-session Materials
+Access all lecture slides and materials here: [AIVS Lecture Slides](https://powersimmani.github.io/AIVS_Lecture_Slides/)
 
 ## Contact
 
