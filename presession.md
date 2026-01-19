@@ -25,7 +25,7 @@ This material has been compiled for the pre-session of the AI Vacation School. A
 -   [Histograms, Clearly Explained](https://youtu.be/qBigTkBLU6g) (approx. 5 min)
 -   [Bar Charts Are Better Than Pie Charts](https://youtu.be/RiEZ_hEf96A) (approx. 5 min)
 -   [The Normal Distribution, Clearly Explained](https://youtu.be/rzFX5NWojp0) (approx. 5 min)
--   [Estimating the Mean, Variance and Standard Deviation](https://youtu.be/SzZ6GpcfoQY) (approx. 10 min)Q8.3
+-   [Estimating the Mean, Variance and Standard Deviation](https://youtu.be/SzZ6GpcfoQY) (approx. 10 min)
 -   [Hypothesis Testing and the Null Hypothesis](https://youtu.be/0oc49DyA3hU) (approx. 10 min)
 -   [Alternative Hypothesis: Main Ideas](https://youtu.be/5koKb5B_YWo) (approx. 5 min)
 -   [p-values: What they are and how to interpret them](https://youtu.be/vemZtEM63GY) (approx. 10 min)
