@@ -22,24 +22,25 @@ This material has been compiled for the pre-session of the AI Vacation School. A
 
 ### 1.3. Probability and Statistics (approx. 120 min)
 
--   [Histograms, Clearly Explained](https://youtu.be/qBigTkBLU6g) (approx. 5 min) — Q8.1
--   [Bar Charts Are Better Than Pie Charts](https://youtu.be/RiEZ_hEf96A) (approx. 5 min) — Q8.1
--   [The Normal Distribution, Clearly Explained](https://youtu.be/rzFX5NWojp0) (approx. 5 min) — Q8.2
--   [Estimating the Mean, Variance and Standard Deviation](https://youtu.be/SzZ6GpcfoQY) (approx. 10 min) — Q8.2, Q8.3
--   [Hypothesis Testing and the Null Hypothesis](https://youtu.be/0oc49DyA3hU) (approx. 10 min) — Q8.4
--   [Alternative Hypothesis: Main Ideas](https://youtu.be/5koKb5B_YWo) (approx. 5 min) — Q8.4
--   [p-values: What they are and how to interpret them](https://youtu.be/vemZtEM63GY) (approx. 10 min) — Q8.5
--   [How to Calculate p-values](https://youtu.be/JQc3yx0-Q9E) (approx. 5 min) — Q8.5
--   [Statistical Power, Clearly Explained](https://youtu.be/Rsc5znwR5FA) (approx. 10 min) — Q8.6
--   [Type 1 Errors (False Positive)](https://youtube.com/shorts/P4aYC1kS4d0) (approx. 1 min) — Q8.6
--   [Type 2 Errors (False Negative)](https://youtube.com/shorts/qioNUZGVH1A) (approx. 1 min) — Q8.6
--   [Conditional Probability, Clearly Explained](https://youtu.be/_IgyaD7vOOA) (approx. 10 min) — Q8.7
--   [Bayes' Theorem, Clearly Explained](https://youtu.be/9wCnvr7Xw4E) (approx. 10 min) — Q8.7
--   [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8) (approx. 10 min) — Q8.7
--   [Expected Values Part 1, Main Ideas](https://youtu.be/KLs_7b7SKi4) (approx. 10 min) — Q8.8
--   [The Central Limit Theorem](https://youtu.be/YAlJCEDH2uY) (approx. 10 min) — Q8.9
--   [Confidence Intervals](https://youtu.be/TqOeMYtOc1w) (approx. 10 min) — Q8.10
--   [The Standard Error](https://youtu.be/XNgt7F6FqDU) (approx. 5 min) — Q8.10
+-   [Histograms, Clearly Explained](https://youtu.be/qBigTkBLU6g) (approx. 5 min)
+-   [Bar Charts Are Better Than Pie Charts](https://youtu.be/RiEZ_hEf96A) (approx. 5 min)
+-   [The Normal Distribution, Clearly Explained](https://youtu.be/rzFX5NWojp0) (approx. 5 min)
+-   [Estimating the Mean, Variance and Standard Deviation](https://youtu.be/SzZ6GpcfoQY) (approx. 10 min)Q8.3
+-   [Hypothesis Testing and the Null Hypothesis](https://youtu.be/0oc49DyA3hU) (approx. 10 min)
+-   [Alternative Hypothesis: Main Ideas](https://youtu.be/5koKb5B_YWo) (approx. 5 min)
+-   [p-values: What they are and how to interpret them](https://youtu.be/vemZtEM63GY) (approx. 10 min)
+-   [How to Calculate p-values](https://youtu.be/JQc3yx0-Q9E) (approx. 5 min)
+-   [Statistical Power, Clearly Explained](https://youtu.be/Rsc5znwR5FA) (approx. 10 min)
+-   [Type 1 Errors (False Positive)](https://youtube.com/shorts/P4aYC1kS4d0) (approx. 1 min)
+-   [Type 2 Errors (False Negative)](https://youtube.com/shorts/qioNUZGVH1A) (approx. 1 min)
+-   [Conditional Probability, Clearly Explained](https://youtu.be/_IgyaD7vOOA) (approx. 10 min)
+-   [Bayes' Theorem, Clearly Explained](https://youtu.be/9wCnvr7Xw4E) (approx. 10 min)
+-   [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8) (approx. 10 min)
+-   [Expected Values Part 1, Main Ideas](https://youtu.be/KLs_7b7SKi4) (approx. 10 min)
+-   [The Central Limit Theorem](https://youtu.be/YAlJCEDH2uY) (approx. 10 min)
+-   [Confidence Intervals](https://youtu.be/TqOeMYtOc1w) (approx. 10 min)
+-   [The Standard Error](https://youtu.be/XNgt7F6FqDU) (approx. 5 min)
+
 
 
 ## 2. Basic Machine Learning Lectures
