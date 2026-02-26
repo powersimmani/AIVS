@@ -1,4 +1,3 @@
----
 # Purpose and Objectives
 
 ## Program Vision

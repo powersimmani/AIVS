@@ -1,4 +1,3 @@
----
 # AI Vacation School - Pre-session (Version for 2026 Winter)
 
 

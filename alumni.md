@@ -1,5 +1,3 @@
----
-
 # Qualified Participants
 
 

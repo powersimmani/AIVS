@@ -1,9 +1,8 @@
----
 # Selection and Evaluation
 
 The AIVS employs a structured selection and evaluation system to ensure participants receive the maximum benefit from the program.
 
-![Evaluation Process](assets/evlauation.png)
+![Evaluation Process](assets/evaluation.png)
 
 ## Selection Process (Qualification Test)
 All prospective participants must pass a qualification test to join the program. This test assesses:

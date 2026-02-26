@@ -1,4 +1,3 @@
----
 # Curriculum
 
 The AIVS curriculum is designed to provide a comprehensive learning experience that combines theoretical foundations with practical application. The program is structured in three main phases to ensure progressive learning and skill development.
@@ -40,7 +39,7 @@ Advanced and Advanced Plus level participants contribute to the program by leadi
 The understanding gained during the Main-session is verified through an Exam conducted on the final day of the Main-session.
 
 ![Main-session](assets/AISS.png)
-Figure: Example teaching materials  used from AIVS 2024
+*Figure: Example teaching materials used in AIVS 2024*
 
 
 ## Self-study
@@ -48,7 +47,7 @@ Figure: Example teaching materials  used from AIVS 2024
 The Self-study phase allows participants to apply their knowledge to research projects of their choice. This 4-week period includes:
 
 - Selection of projects and corresponding datasets 
-- Access to computing resources and specialized equipments
+- Access to computing resources and specialized equipment
 - Weekly group sessions to share progress and get feedback
 - Final project documentation and presentation preparation
 
@@ -56,7 +55,7 @@ Participants are encouraged to select projects that align with their interests w
 You can view the results of the Self-study projects in the [showcases directory](./showcases).
 
 ![February 25th Session](./showcases/2025_aiws_feb25.png)
-Figure: Example projects presented in AIWS 2025
+*Figure: Example projects presented in AIWS 2025*
 
 ---
 [Return to Main Page](./readme.md#Table-of-Contents)

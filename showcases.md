@@ -1,11 +1,10 @@
----
 # AIVS Oral and Poster Presentations Showcase
 
 ## Oral Presentations
 AIVS provides students with opportunities to develop their presentation skills and share their research findings through various seminar presentations. Each student participates in at least two 2-hour rehearsal sessions to refine their presentations.
 
 ![AIVS Seminar Showcase](./assets/seminar.png)
-Figure: Seminar
+*Figure: AIVS Seminar presentations*
 
 ### Seminar Series
 Our seminar series includes the following events:
@@ -35,8 +34,8 @@ The IGC Research Showcase was held on May 22, 2023, and May 10, 2024, with the f
 
 AIVS students were encouraged to extend their independent study results into posters and received guidance in presenting these posters at the symposium.
 
-![AIVS Seminar Showcase](./assets/posters.png)
-Figure: Presented posters
+![AIVS Poster Showcase](./assets/posters.png)
+*Figure: Posters presented at IGC Research Showcase*
 
 
 ### 2025 Student Showcase Presentations
