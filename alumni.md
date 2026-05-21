@@ -40,9 +40,9 @@ Additionally, we recognize participants from the initial program stages before t
 | 2026 AIWS | Jihun Kwon | Undergraduate student |
 | 2025 AISS | Junseok Kim | Undergraduate student |
 | 2025 AIWS | Jongwon Shin | Undergraduate student |
-| 2025 AIWS | Seonil Jee | Undergraduate student |
+| 2025 AIWS | Seonil Jee | Graduate school - ETH Zürich, Switzerland |
 | 2024 AISS | Chae Eon Rhee | Undergraduate student |
-| 2024 AIWS | Dahee Kim | Undergraduate student |
+| 2024 AIWS | Dahee Kim | Graduate school - Yonsei University, Korea |
 | 2023 AISS | Minjae Chung | Graduate student |
 | 2023 AIWS | Jinsung Oh | Graduate student |
 | 2023 AIWS | Yejin Lee | Graduate student |
@@ -56,7 +56,7 @@ Additionally, we recognize participants from the initial program stages before t
 | 2025 AISS | Selin Yang | Undergraduate student |
 | 2025 AIWS | Gaeun Oh | Undergraduate student |
 | 2024 AISS | Taekeun Kim | Undergraduate student |
-| 2024 AISS | Dongin Moon | Undergraduate student |
+| 2024 AISS | Dongin Moon | Graduate school - Yonsei University, Korea |
 | 2024 AISS | Yujin Kim | Graduate school - Ghent University, Belgium |
 | 2023 AISS | Jongbum Won | Social Service Agent |
 | 2023 AISS | Ganghyun Kim | Graduate school - UNIST, Korea |
