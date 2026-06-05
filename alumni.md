@@ -28,8 +28,8 @@ Additionally, we recognize participants from the initial program stages before t
 | 2025 AISS | Wonyeong Lee | Undergraduate student |
 | 2025 AIWS | Jaeyoung Lee | Undergraduate student |
 | 2024 AISS | Kyoung Kwak | Social Service Agent |
-| 2024 AIWS | Jiwon Im | Undergraduate student |
-| 2023 AISS | Yujin Sung | Graduate school - KAIST, Korea |
+| 2024 AIWS | Jiwon Im | Graduate school - Korea University, Korea |
+| 2023 AISS | Yujin Sung | [Graduate school - KAIST, Korea](https://softbm.kaist.ac.kr/) |
 
 ### Advanced Group
 
@@ -42,9 +42,9 @@ Additionally, we recognize participants from the initial program stages before t
 | 2025 AIWS | Jongwon Shin | Undergraduate student |
 | 2025 AIWS | Seonil Jee | Graduate school - ETH Zürich, Switzerland |
 | 2024 AISS | Chae Eon Rhee | Undergraduate student |
-| 2024 AIWS | Dahee Kim | Graduate school - Yonsei University, Korea |
-| 2023 AISS | Minjae Chung | Graduate student |
-| 2023 AIWS | Jinsung Oh | Graduate student |
+| 2024 AIWS | Dahee Kim | [Graduate school - Yonsei University, Korea](https://www.kwonhklab.com/) |
+| 2023 AISS | Minjae Chung | [Graduate student - GIST, Korea](https://combio.gist.ac.kr/combio/) |
+| 2023 AIWS | Jinsung Oh | Graduate school - University College London, United Kingdom |
 | 2023 AIWS | Yejin Lee | Graduate student |
 
 ### Advanced Plus Group
@@ -55,11 +55,11 @@ Additionally, we recognize participants from the initial program stages before t
 | 2025 AISS | Subin Hyun | Undergraduate student |
 | 2025 AISS | Selin Yang | Undergraduate student |
 | 2025 AIWS | Gaeun Oh | Undergraduate student |
-| 2024 AISS | Taekeun Kim | Undergraduate student |
+| 2024 AISS | Taekeun Kim | Graduate student |
 | 2024 AISS | Dongin Moon | Graduate school - Yonsei University, Korea |
 | 2024 AISS | Yujin Kim | Graduate school - Ghent University, Belgium |
 | 2023 AISS | Jongbum Won | Social Service Agent |
-| 2023 AISS | Ganghyun Kim | Graduate school - UNIST, Korea |
+| 2023 AISS | Ganghyun Kim | [Graduate school - UNIST, Korea](https://sites.google.com/view/jaejunyoo) |
 
 ### Initial Stage Group
 
@@ -68,7 +68,7 @@ Participants who joined before the certification level system was established.
 | Session | Name | Current Affiliation |
 |---------|------|---------------------|
 | 2021 AISS | Jihwan Lim | Graduate school - Ghent University, Belgium |
-| 2021 AIWS | Ilho Yun | Graduate school - Seoul National University, Korea |
+| 2021 AIWS | Ilho Yun | [Graduate school - Seoul National University, Korea](https://bhi-kimlab.github.io/) |
 | 2021 AIWS | Jinny Chun | Graduate school - Ghent University, Belgium |
 | 2021 AIWS | Haeun Lee | |
 | 2020 AISS | Sanghyeon Park | Visiting researcher - Scripps Institute in San Diego, California |
