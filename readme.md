@@ -47,8 +47,8 @@ Access all lecture slides and materials here: [AIVS Lecture Slides](https://powe
 ## Contact
 
 For inquiries about educational materials and curriculum, please contact:
-- Email: homin.park@ghent.ac.kr
+- Email: powersimmani@gmail.com
 
 ---
 
-© 2025 AI Vacation School - All Rights Reserved
+© 2026 AI Vacation School - All Rights Reserved
