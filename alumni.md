@@ -39,7 +39,7 @@ Additionally, we recognize participants from the initial program stages before t
 | 2026 AIWS | Junhui Lee | Undergraduate student |
 | 2026 AIWS | Jihun Kwon | Undergraduate student |
 | 2025 AISS | Junseok Kim | Undergraduate student |
-| 2025 AIWS | Jongwon Shin | Undergraduate student |
+| 2025 AIWS | Jongwon Shin | Graduate school - Ghent University, Belgium |
 | 2025 AIWS | Seonil Jee | Graduate school - ETH Zürich, Switzerland |
 | 2024 AISS | Chae Eon Rhee | Undergraduate student |
 | 2024 AIWS | Dahee Kim | [Graduate school - Yonsei University, Korea](https://www.kwonhklab.com/) |
@@ -55,10 +55,10 @@ Additionally, we recognize participants from the initial program stages before t
 | 2025 AISS | Subin Hyun | Undergraduate student |
 | 2025 AISS | Selin Yang | Undergraduate student |
 | 2025 AIWS | Gaeun Oh | Undergraduate student |
-| 2024 AISS | Taekeun Kim | Graduate student |
+| 2024 AISS | Taekeun Kim | Graduate school - KAIST, Korea |
 | 2024 AISS | Dongin Moon | Graduate school - Yonsei University, Korea |
 | 2024 AISS | Yujin Kim | Graduate school - Ghent University, Belgium |
-| 2023 AISS | Jongbum Won | Social Service Agent |
+| 2023 AISS | Jongbum Won | [Graduate school - Yonsei University, Korea](https://ai-isl.yonsei.ac.kr/index.html) |
 | 2023 AISS | Ganghyun Kim | [Graduate school - UNIST, Korea](https://sites.google.com/view/jaejunyoo) |
 
 ### Initial Stage Group
