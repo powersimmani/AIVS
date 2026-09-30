@@ -53,7 +53,7 @@ Additionally, we recognize participants from the initial program stages before t
 |---------|------|---------------------|
 | 2026 AIWS | Narim Kim | Undergraduate student |
 | 2025 AISS | Subin Hyun | Undergraduate student |
-| 2025 AISS | Selin Yang | Undergraduate student |
+| 2025 AISS | Selin Yang | Graduate school (MSc, 2026) - Imperial College London, United Kingdom |
 | 2025 AIWS | Gaeun Oh | Undergraduate student |
 | 2024 AISS | Taekeun Kim | Graduate school - KAIST, Korea |
 | 2024 AISS | Dongin Moon | Graduate school - Yonsei University, Korea |
@@ -78,7 +78,7 @@ Participants who joined before the certification level system was established.
 
 You can find the participants' presentations and posters [here](./showcases.md), and their contributed research outcomes [here](./collaborations.md).
 
-*Note: This list represents participants who have completed the program as of May 2026. Current affiliations will be updated as information becomes available.*
+*Note: This list represents participants who have completed the program as of September 2026. Current affiliations will be updated as information becomes available.*
 
 ---
 
