@@ -45,7 +45,7 @@ Additionally, we recognize participants from the initial program stages before t
 | 2024 AIWS | Dahee Kim | [Graduate school - Yonsei University, Korea](https://www.kwonhklab.com/) |
 | 2023 AISS | Minjae Chung | [Graduate student - GIST, Korea](https://combio.gist.ac.kr/combio/) |
 | 2023 AIWS | Jinsung Oh | Graduate school - University College London, United Kingdom |
-| 2023 AIWS | Yejin Lee | Graduate student |
+| 2023 AIWS | Yejin Lee | Graduate school (MSc) - Technical University of Munich, Germany |
 
 ### Advanced Plus Group
 
@@ -59,7 +59,7 @@ Additionally, we recognize participants from the initial program stages before t
 | 2024 AISS | Dongin Moon | Graduate school - Yonsei University, Korea |
 | 2024 AISS | Yujin Kim | Graduate school - Ghent University, Belgium |
 | 2023 AISS | Jongbum Won | [Graduate school - Yonsei University, Korea](https://ai-isl.yonsei.ac.kr/index.html) |
-| 2023 AISS | Ganghyun Kim | [Graduate school - UNIST, Korea](https://sites.google.com/view/jaejunyoo) |
+| 2023 AISS | Ganghyun Kim | [Graduate school (MSc, 2025) - UNIST, Korea](https://sites.google.com/view/jaejunyoo) |
 
 ### Initial Stage Group
 
@@ -67,11 +67,11 @@ Participants who joined before the certification level system was established.
 
 | Session | Name | Current Affiliation |
 |---------|------|---------------------|
-| 2021 AISS | Jihwan Lim | Graduate school - Ghent University, Belgium |
+| 2021 AISS | Jihwan Lim | Graduate school (PhD, 2026) - Ghent University, Belgium |
 | 2021 AIWS | Ilho Yun | [Graduate school - Seoul National University, Korea](https://bhi-kimlab.github.io/) |
-| 2021 AIWS | Jinny Chun | Graduate school - Ghent University, Belgium |
-| 2021 AIWS | Haeun Lee | |
-| 2020 AISS | Sanghyeon Park | Visiting researcher - Scripps Institute in San Diego, California |
+| 2021 AIWS | Jinny Chun | Graduate school (PhD, 2026) - KU Leuven, Belgium |
+| 2021 AIWS | Haeun Lee | Graduate school (PhD, 2026) - Karolinska Institutet, Sweden |
+| 2020 AISS | Sanghyeon Park | Graduate school - Sungkyunkwan University, Korea |
 | 2020 AISS | Jiyeon Baek | |
 
 ## Participant Achievements
